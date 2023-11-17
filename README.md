@@ -12,3 +12,7 @@ Las actividades que desarrolla el AFDPERP son:
 - Indicadores de desempeño de la pesquería según tipo de flota.
 - Estimación de descartes y captura incidental en la pesquería industrial de cerco.
 - Cuantificación por métodos indirectos del crecimiento, reclutamiento y migración de los pequeños pelágicos.
+
+<p>
+  <img alt="GDAL" src="https://github.com/PelagicosImarpe/PelagicosImarpe/blob/main/afipe_4.jpg" />
+</p>
